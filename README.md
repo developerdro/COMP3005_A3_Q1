@@ -93,9 +93,9 @@ Database Name:
 PART 3: RUNNING THE PROGRAM
 ------------------------------------------------------------
 
-Step 1: Open the A3 Folder in Command Line
+Step 1: Open folder containing project files in Command Line
 ------------------------------------------
-Navigate to the directory where you placed the A3 folder.
+Navigate to the directory where you placed the project flies.
 
 Example:
 cd Desktop/A3
